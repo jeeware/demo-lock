@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: demo-lock
+server:
+  port: 0
+
+#logging:
+#    level:
+#      io.github.jeeware.cloud.lock4j: trace
+
